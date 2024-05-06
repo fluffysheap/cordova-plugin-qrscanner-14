@@ -32,7 +32,7 @@ QRScanner's native camera preview is rendered behind the Cordova app's webview, 
 ## Get Started
 
 ```bash
-cordova plugin add cordova-plugin-qrscanner-12
+cordova plugin add cordova-plugin-qrscanner-13
 ```
 
 Simply adding this plugin to the Cordova project will make the `window.QRScanner` global object available once the `deviceready` event propagates.
