@@ -50,9 +50,9 @@
   "author": "Jason Dreyzehner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JaimeHere/cordova-plugin-qrscanner-12/issues"
+    "url": "https://github.com/richmoh/cordova-plugin-qrscanner-13/issues"
   },
-  "homepage": "https://github.com/JaimeHere/cordova-plugin-qrscanner-12",
+  "homepage": "https://github.com/richmoh/cordova-plugin-qrscanner-13",
   "main": "dist/cordova-plugin-qrscanner-lib.min.js",
   "dependencies": {
     "qrcode-reader": "^1.0.4",
